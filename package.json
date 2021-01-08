@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "Design patterns implemented in Typescript for study purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGabrielSouza/design-patterns-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevGabrielSouza/design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/DevGabrielSouza/design-patterns-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
